@@ -1,0 +1,18 @@
+Musow Kènèya : service de reconnaissance vocale sur Windows
+===========================================================
+
+Ce dossier fait tourner worker.py sur un ordinateur Windows. Le programme
+interroge la plateforme toutes les 5 secondes, transcrit les questions
+vocales en dioula et renvoie le texte. Il ne répond jamais lui-même aux
+femmes : c'est la plateforme qui décide.
+
+Il n'y a aucun port à ouvrir : l'ordinateur appelle la plateforme, jamais
+l'inverse. Une connexion Internet ordinaire suffit.
+
+Fichiers
+  installer.bat         installation (une seule fois)
+  configuration.bat     adresse de la plateforme et jeton (à remplir, secret)
+  tester_une_fois.bat   premier essai : télécharge le modèle et vérifie tout
+  lancer_musow_ia.bat   service permanent, redémarre seul en cas d'arrêt
+  journal_ia.txt        créé automatiquement : trace de chaque question
+  worker.py, evaluer.py programmes de la plateforme (ne pas modifier)

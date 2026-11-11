@@ -1,0 +1,117 @@
+code;theme;intitule_fr;alerte;profil
+Q001;consultations;Quand dois-je faire ma première consultation prénatale ?;0;enceinte
+Q002;consultations;Combien de fois dois-je aller en consultation pendant la grossesse ?;0;enceinte
+Q003;consultations;Que se passe-t-il pendant une consultation prénatale ?;0;enceinte
+Q004;consultations;Pourquoi faut-il faire des examens de sang pendant la grossesse ?;0;enceinte
+Q005;consultations;À quoi sert l'échographie ?;0;enceinte
+Q006;consultations;Combien coûtent les consultations prénatales ?;0;enceinte
+Q007;consultations;Que dois-je apporter à la consultation ?;0;toutes
+Q008;consultations;Que faire si j'ai manqué mon rendez-vous ?;0;toutes
+Q009;consultations;Pourquoi faut-il faire le test du VIH pendant la grossesse ?;0;enceinte
+Q010;consultations;Mon mari peut-il m'accompagner aux consultations ?;0;toutes
+Q011;consultations;Comment savoir de combien de mois je suis enceinte ?;0;enceinte
+Q012;consultations;Comment est calculée la date prévue d'accouchement ?;0;enceinte
+Q013;danger;Je saigne un peu, est-ce grave ?;1;enceinte
+Q014;danger;J'ai très mal au ventre, que dois-je faire ?;1;enceinte
+Q015;danger;J'ai de la fièvre pendant la grossesse, est-ce dangereux ?;1;enceinte
+Q016;danger;J'ai très mal à la tête et je vois flou, que faire ?;1;enceinte
+Q017;danger;Mes pieds, mes mains ou mon visage sont gonflés, est-ce normal ?;1;enceinte
+Q018;danger;Le bébé bouge moins ou ne bouge plus, que faire ?;1;enceinte
+Q019;danger;De l'eau coule de mon sexe, est-ce que la poche des eaux est percée ?;1;enceinte
+Q020;danger;J'ai des pertes blanches, est-ce normal ?;0;enceinte
+Q021;danger;J'ai mal en urinant, que faire ?;0;enceinte
+Q022;danger;Je vomis tout ce que je mange, est-ce dangereux ?;1;enceinte
+Q023;danger;Quels sont les signes de danger pendant la grossesse ?;0;enceinte
+Q024;danger;J'ai des convulsions ou je me suis évanouie, que faire ?;1;toutes
+Q025;danger;J'ai du mal à respirer, est-ce grave ?;1;toutes
+Q026;alimentation;Que dois-je manger pendant la grossesse ?;0;enceinte
+Q027;alimentation;Quels aliments dois-je éviter pendant la grossesse ?;0;enceinte
+Q028;alimentation;Est-ce vrai que la femme enceinte ne doit pas manger d'œufs ?;0;enceinte
+Q029;alimentation;Est-ce vrai que la femme enceinte ne doit pas manger d'escargots ou de viande de brousse ?;0;enceinte
+Q030;alimentation;Puis-je manger du piment pendant la grossesse ?;0;enceinte
+Q031;alimentation;Puis-je boire du café ou du thé ?;0;enceinte
+Q032;alimentation;Puis-je boire de l'alcool ou du vin de palme pendant la grossesse ?;0;enceinte
+Q033;alimentation;Est-ce que manger de la terre (kaolin) est dangereux ?;0;enceinte
+Q034;alimentation;Combien d'eau dois-je boire par jour ?;0;toutes
+Q035;alimentation;Je n'ai pas d'appétit, est-ce grave ?;0;enceinte
+Q036;alimentation;Comment éviter l'anémie pendant la grossesse ?;0;enceinte
+Q037;alimentation;Dois-je manger pour deux ?;0;enceinte
+Q038;medicaments;À quoi servent les comprimés de fer et d'acide folique ?;0;enceinte
+Q039;medicaments;Les comprimés de fer me donnent mal au ventre, que faire ?;0;enceinte
+Q040;medicaments;Puis-je prendre du paracétamol pendant la grossesse ?;0;enceinte
+Q041;medicaments;Puis-je prendre des médicaments vendus au marché ?;0;toutes
+Q042;medicaments;Puis-je boire des décoctions ou des tisanes traditionnelles ?;0;enceinte
+Q043;medicaments;Est-ce dangereux de prendre des produits pour faire sortir le bébé plus vite ?;0;enceinte
+Q044;medicaments;À quoi sert le vaccin antitétanique de la femme enceinte ?;0;enceinte
+Q045;medicaments;J'ai une maladie chronique, puis-je continuer mon traitement ?;0;toutes
+Q046;paludisme;Pourquoi le paludisme est-il dangereux pendant la grossesse ?;0;enceinte
+Q047;paludisme;Comment me protéger du paludisme ?;0;toutes
+Q048;paludisme;Pourquoi dormir sous moustiquaire imprégnée ?;0;toutes
+Q049;paludisme;Où trouver une moustiquaire imprégnée ?;0;toutes
+Q050;paludisme;À quoi servent les comprimés contre le paludisme donnés pendant la grossesse ?;0;enceinte
+Q051;quotidien;Puis-je continuer à travailler pendant la grossesse ?;0;enceinte
+Q052;quotidien;Puis-je porter des charges lourdes ?;0;enceinte
+Q053;quotidien;Puis-je voyager pendant la grossesse ?;0;enceinte
+Q054;quotidien;Les rapports sexuels sont-ils dangereux pendant la grossesse ?;0;enceinte
+Q055;quotidien;Dans quelle position dois-je dormir ?;0;enceinte
+Q056;quotidien;J'ai des nausées le matin, que faire ?;0;enceinte
+Q057;quotidien;J'ai des brûlures d'estomac, que faire ?;0;enceinte
+Q058;quotidien;J'ai mal au dos, est-ce normal ?;0;enceinte
+Q059;quotidien;J'ai des crampes aux jambes, que faire ?;0;enceinte
+Q060;quotidien;Je suis constipée, que faire ?;0;enceinte
+Q061;quotidien;Je suis souvent fatiguée, est-ce normal ?;0;enceinte
+Q062;quotidien;Je me sens triste ou inquiète, est-ce normal ?;0;toutes
+Q063;quotidien;Puis-je faire du sport ou marcher ?;0;enceinte
+Q064;quotidien;Puis-je me défriser ou me teindre les cheveux ?;0;enceinte
+Q065;quotidien;Peut-on savoir si c'est une fille ou un garçon ?;0;enceinte
+Q066;accouchement;Quels sont les signes que l'accouchement commence ?;0;enceinte
+Q067;accouchement;Quand dois-je partir au centre de santé pour accoucher ?;0;enceinte
+Q068;accouchement;Que dois-je préparer pour l'accouchement ?;0;enceinte
+Q069;accouchement;Pourquoi accoucher au centre de santé plutôt qu'à la maison ?;0;enceinte
+Q070;accouchement;Combien coûte un accouchement au centre de santé ?;0;enceinte
+Q071;accouchement;Qu'est-ce qu'une césarienne et quand est-elle nécessaire ?;0;enceinte
+Q072;accouchement;J'ai eu une césarienne, pourrai-je accoucher normalement ?;0;enceinte
+Q073;accouchement;Mon terme est dépassé, que dois-je faire ?;1;enceinte
+Q074;accouchement;Qui peut m'accompagner pendant l'accouchement ?;0;enceinte
+Q075;accouchement;Comment organiser le transport le jour de l'accouchement ?;0;enceinte
+Q076;postpartum;Pourquoi faut-il faire une consultation après l'accouchement ?;0;mere
+Q077;postpartum;Combien de temps durent les saignements après l'accouchement ?;0;mere
+Q078;postpartum;Je saigne beaucoup après l'accouchement, que faire ?;1;mere
+Q079;postpartum;J'ai de la fièvre après l'accouchement, est-ce grave ?;1;mere
+Q080;postpartum;Comment soigner ma cicatrice ou mes points de suture ?;0;mere
+Q081;postpartum;Quand puis-je reprendre les rapports sexuels après l'accouchement ?;0;mere
+Q082;postpartum;Quand vont revenir mes règles ?;0;mere
+Q083;postpartum;Puis-je tomber enceinte pendant que j'allaite ?;0;mere
+Q084;postpartum;Quelles méthodes de contraception puis-je utiliser après l'accouchement ?;0;mere
+Q085;postpartum;Combien de temps attendre avant une nouvelle grossesse ?;0;mere
+Q086;postpartum;Je pleure souvent depuis l'accouchement, est-ce normal ?;0;mere
+Q087;postpartum;Mes seins sont durs et douloureux, que faire ?;0;mere
+Q088;bebe;Quand dois-je commencer à allaiter mon bébé ?;0;mere
+Q089;bebe;Faut-il donner de l'eau au bébé ?;0;mere
+Q090;bebe;Combien de fois par jour dois-je allaiter ?;0;mere
+Q091;bebe;Je pense que je n'ai pas assez de lait, que faire ?;0;mere
+Q092;bebe;Jusqu'à quel âge l'allaitement seul suffit-il ?;0;mere
+Q093;bebe;Quand puis-je donner de la bouillie au bébé ?;0;mere
+Q094;bebe;Comment soigner le cordon du bébé ?;0;mere
+Q095;bebe;Le cordon du bébé est rouge ou sent mauvais, que faire ?;1;mere
+Q096;bebe;Mon bébé a de la fièvre, que faire ?;1;mere
+Q097;bebe;Mon bébé ne tète plus, est-ce grave ?;1;mere
+Q098;bebe;Mon bébé respire vite ou difficilement, que faire ?;1;mere
+Q099;bebe;Mon bébé a la peau ou les yeux jaunes, est-ce grave ?;1;mere
+Q100;bebe;Mon bébé a des convulsions, que faire ?;1;mere
+Q101;bebe;Mon bébé a la diarrhée, que faire ?;1;mere
+Q102;bebe;Mon bébé pleure beaucoup, est-ce normal ?;0;mere
+Q103;bebe;Faut-il laver le bébé tous les jours ?;0;mere
+Q104;bebe;Comment garder le bébé au chaud ?;0;mere
+Q105;bebe;Est-ce bon de mettre du beurre de karité ou des produits sur le cordon ?;0;mere
+Q106;vaccination;Pourquoi faut-il vacciner mon bébé ?;0;mere
+Q107;vaccination;Quels vaccins mon bébé doit-il recevoir et quand ?;0;mere
+Q108;vaccination;Les vaccins sont-ils gratuits ?;0;mere
+Q109;vaccination;Mon bébé a de la fièvre après le vaccin, est-ce normal ?;0;mere
+Q110;vaccination;J'ai manqué un vaccin, que faire ?;0;mere
+Q111;vaccination;Faut-il garder le carnet de vaccination ?;0;mere
+Q112;vaccination;Peut-on vacciner un bébé malade ?;0;mere
+Q113;service;Comment fonctionne ce service ?;0;toutes
+Q114;service;Mes informations sont-elles gardées secrètes ?;0;toutes
+Q115;service;Ce service coûte-t-il de l'argent ?;0;toutes
+Q116;service;Comment arrêter les messages ?;0;toutes
